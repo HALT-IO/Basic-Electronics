@@ -1,1 +1,1 @@
-# Basic-Hardware-Components-for-Beginners
+# Basic-Electronics-Components-for-Beginners
