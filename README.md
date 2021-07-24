@@ -1,1 +1,1 @@
-# Basic-Electronics-Components-for-Beginners
+# Basic Electronics
